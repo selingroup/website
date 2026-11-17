@@ -1,6 +1,12 @@
 import { load as yamlLoad } from "js-yaml";
+import { HtmlBasePlugin } from "@11ty/eleventy";
 
 export default function (eleventyConfig) {
+  // Lets the site work both at www.selingroup.org (path prefix "/") and at a GitHub Pages
+  // project address such as selingroup.github.io/website/ (path prefix "/website/").
+  // The deploy workflow passes the right prefix with --pathprefix; links in templates stay "/...".
+  eleventyConfig.addPlugin(HtmlBasePlugin);
+
   // YAML data files in src/_data
   eleventyConfig.addDataExtension("yml,yaml", (contents) => yamlLoad(contents));
 

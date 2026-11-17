@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 title: Home
 ---
-<section class="hero" style="--hero: url('{{ site.hero.image }}')">
+<section class="hero" style="--hero: url('{{ site.hero.image | htmlBaseUrl }}')">
   <div class="wrap hero-inner">
     <p class="eyebrow light">Massachusetts Institute of Technology</p>
     <h1>{{ site.hero.heading }}</h1>
