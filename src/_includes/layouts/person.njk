@@ -4,7 +4,7 @@ layout: layouts/base.njk
 <div class="wrap person">
   <a class="back" href="/people/">← All people</a>
   <div class="person-grid">
-    <img class="person-photo" src="{{ photo or '/assets/images/people/placeholder.svg' }}"{% if photo_position %} style="object-position: {{ photo_position }}"{% endif %} alt="{{ name }}" width="320" height="320">
+    <figure class="person-figure"><img class="person-photo" src="{{ photo or '/assets/images/people/placeholder.svg' }}"{% if photo_position %} style="object-position: {{ photo_position }}"{% endif %} alt="{{ name }}" width="320" height="320">{% if photo_credit %}<figcaption class="photo-credit">Photo: {{ photo_credit }}</figcaption>{% endif %}</figure>
     <div>
       <p class="eyebrow">{% if group == "alumni" %}Alumni{% else %}{{ role }}{% endif %}</p>
       <h1>{{ name }}</h1>

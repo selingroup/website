@@ -35,6 +35,7 @@ order: 115              # lower = earlier within its group
 photo: /assets/images/people/jane-doe.jpg
 website: https://example.com   # optional; also cv, scholar, email, mastodon, bluesky
 photo_position: "50% 20%"     # optional: shift the square crop (0% = top of photo)
+photo_credit: "Photographer Name"  # optional: shown under the photo on the profile page
 ---
 
 Jane studies ... (bio in Markdown)
