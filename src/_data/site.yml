@@ -1,0 +1,60 @@
+# Site-wide settings. Edit text here; it updates every page.
+title: Selin Group
+tagline: Pollution, Impacts and Policy at MIT
+url: https://www.selingroup.org
+description: >-
+  The Selin Group at MIT uses atmospheric chemistry and integrated modeling
+  to inform sustainability decision-making.
+
+# Top navigation (order matters)
+nav:
+  - { label: People, url: /people/ }
+  - { label: Research, url: /research/ }
+  - { label: Publications, url: /publications/ }
+  - { label: News, url: /news/ }
+  - { label: Join Us, url: /join/ }
+
+# Home page
+hero:
+  heading: Pollution, Impacts and Policy
+  text: >-
+    Our group research focuses on using atmospheric chemistry and integrated
+    modeling to inform sustainability decision-making.
+  image: /assets/images/site/hero.jpg
+
+themes:
+  - title: Mercury and POPs
+    image: /assets/images/site/mercury-pops.jpg
+    text: >-
+      Mercury (Hg) and persistent organic pollutants (POPs) are long-lived
+      environmental pollutants that travel globally through the atmosphere, and
+      pose risks to humans and the environment far from emission sources. Our
+      work tries to better understand the fate and transport of these contaminants.
+  - title: Air Pollution Impacts
+    image: /assets/images/site/air-pollution-impacts.jpg
+    text: >-
+      Toxic air pollutants, including Hg, POPs, ozone, and fine particulate
+      matter, can be dangerous to human health. We develop tools to help
+      decision-makers understand and project air pollution impacts, in the
+      context of uncertainty and global change, including climate changes.
+  - title: Decisions and Policy
+    image: /assets/images/site/decisions-and-policy.jpg
+    text: >-
+      Our analyses are designed to inform policies and decisions, with the goal
+      of enhancing sustainability for future generations. We are interested in
+      understanding and enhancing the role of science in sustainability
+      decision-making.
+
+# Footer / contact
+affiliations:
+  - { label: "Institute for Data, Systems, and Society", url: "https://idss.mit.edu" }
+  - { label: "Earth, Atmospheric and Planetary Sciences", url: "https://eapsweb.mit.edu" }
+  - { label: "Center for Sustainability Science and Strategy", url: "https://cs3.mit.edu" }
+address: Massachusetts Institute of Technology, 77 Massachusetts Avenue, Cambridge, MA 02139
+
+# People page section order and headings
+people_groups:
+  - { key: faculty, heading: Faculty }
+  - { key: postdoc, heading: Postdocs }
+  - { key: student, heading: Graduate Students }
+  - { key: staff, heading: Group Administrator }

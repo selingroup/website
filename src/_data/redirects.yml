@@ -1,0 +1,5 @@
+# Old Squarespace URLs -> new pages, so existing links and bookmarks keep working.
+- { from: /research-1, to: /research/ }
+- { from: /for-prospective-students, to: /join/ }
+- { from: /noelle-eckley-selin, to: /people/noelle-eckley-selin/ }
+- { from: /news2015v2, to: /news/ }

@@ -1,0 +1,38 @@
+---
+layout: layouts/base.njk
+title: Publications
+permalink: /publications/
+---
+<section class="page-head"><div class="wrap"><h1>Publications</h1><p class="lede">{{ publications.length }} papers, books and commentaries, newest first.</p>
+  <label class="search"><span class="sr-only">Filter publications</span><input type="search" id="pub-filter" placeholder="Filter by title, author, journal or year…"></label>
+</div></section>
+<div class="wrap pubs">
+  <nav class="year-jump" aria-label="Jump to year">{% for g in publications | groupByYear %}<a href="#y{{ g.year | replace('–', '-') }}">{{ g.year }}</a>{% endfor %}</nav>
+  {% for g in publications | groupByYear %}
+  <section class="year" id="y{{ g.year | replace('–', '-') }}">
+    <h2>{{ g.year }}</h2>
+    <ol class="pub-list">
+      {% for p in g.items %}
+      <li class="pub">
+        <p class="pub-title">{% if p.url %}<a href="{{ p.url }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
+        <p class="pub-cite">{{ p.citation | boldMembers(collections.people, p.not_members) | safe }}</p>
+        {% if p.more_links or p.news %}<p class="pub-extra">{% for l in p.more_links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}{% if p.news %}<a href="{{ p.news }}">In the news</a>{% endif %}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+  <p id="pub-empty" class="muted" hidden>No publications match that filter.</p>
+</div>
+<script>
+  const f = document.getElementById('pub-filter');
+  f.addEventListener('input', () => {
+    const q = f.value.toLowerCase().trim(); let any = false;
+    document.querySelectorAll('.year').forEach(sec => {
+      let shown = 0;
+      sec.querySelectorAll('.pub').forEach(li => { const m = !q || (sec.id.slice(1) + ' ' + li.textContent).toLowerCase().includes(q); li.hidden = !m; if (m) shown++; });
+      sec.hidden = shown === 0; if (shown) any = true;
+    });
+    document.getElementById('pub-empty').hidden = any;
+  });
+</script>

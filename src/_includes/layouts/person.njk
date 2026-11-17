@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+---
+<div class="wrap person">
+  <a class="back" href="/people/">← All people</a>
+  <div class="person-grid">
+    <img class="person-photo" src="{{ photo or '/assets/images/people/placeholder.svg' }}"{% if photo_position %} style="object-position: {{ photo_position }}"{% endif %} alt="{{ name }}" width="320" height="320">
+    <div>
+      <p class="eyebrow">{% if group == "alumni" %}Alumni{% else %}{{ role }}{% endif %}</p>
+      <h1>{{ name }}</h1>
+      {% if group == "alumni" %}<p class="lede">{{ role }}</p>{% endif %}
+      <div class="prose">{{ content | safe }}</div>
+      <p class="person-links">
+        {% if website %}<a class="btn" href="{{ website }}">Website</a>{% endif %}
+        {% if cv %}<a class="btn" href="{{ cv }}">CV</a>{% endif %}
+        {% if scholar %}<a class="btn" href="{{ scholar }}">Google Scholar</a>{% endif %}
+        {% if mastodon %}<a class="btn" href="{{ mastodon }}" rel="me">Mastodon</a>{% endif %}
+        {% if bluesky %}<a class="btn" href="{{ bluesky }}" rel="me">Bluesky</a>{% endif %}
+        {% if email %}<a class="btn" href="mailto:{{ email }}">Email</a>{% endif %}
+      </p>
+    </div>
+  </div>
+</div>

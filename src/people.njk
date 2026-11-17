@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+title: People
+permalink: /people/
+---
+<section class="page-head"><div class="wrap"><h1>People</h1><p class="lede">Current members and alumni of the Selin Group.</p></div></section>
+<div class="wrap">
+  {% for g in site.people_groups %}
+  {% set members = collections.peopleSorted | byGroup(g.key) %}
+  {% if members.length %}
+  <section class="section-tight">
+    <h2 class="group-heading">{{ g.heading }}</h2>
+    <div class="people-grid">
+      {% for p in members %}
+      <a class="person-card" href="{{ p.url }}">
+        <img src="{{ p.data.photo or '/assets/images/people/placeholder.svg' }}"{% if p.data.photo_position %} style="object-position: {{ p.data.photo_position }}"{% endif %} alt="{{ p.data.name }}" loading="lazy" width="240" height="240">
+        <h3>{{ p.data.name }}</h3>
+        <p class="role">{{ p.data.role }}</p>
+        <p class="bio">{{ p.content | excerpt(170) }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+  {% endfor %}
+
+  <section class="section-tight">
+    <h2 class="group-heading">Alumni</h2>
+    <ul class="alumni-grid">
+      {% for p in collections.peopleSorted | byGroup("alumni") %}
+      <li><a href="{{ p.url }}"><img src="{{ p.data.photo or '/assets/images/people/placeholder.svg' }}"{% if p.data.photo_position %} style="object-position: {{ p.data.photo_position }}"{% endif %} alt="" loading="lazy" width="56" height="56"><span><strong>{{ p.data.name }}</strong><small>{{ p.data.role }}</small></span></a></li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>

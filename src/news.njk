@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+title: News
+permalink: /news/
+---
+<section class="page-head"><div class="wrap"><h1>News</h1><p class="lede">Group announcements and research in the media.</p></div></section>
+<div class="wrap">
+  <div class="cards three section-tight">
+    {% for post in collections.newsSorted %}
+    <a class="card" href="{{ post.url }}">
+      {% if post.data.image %}<img src="{{ post.data.image }}" alt="" loading="lazy">{% endif %}
+      <div class="card-body"><time class="eyebrow">{{ post.date | readableDate }}</time><h2>{{ post.data.title }}</h2><p>{{ post.content | excerpt(140) }}</p></div>
+    </a>
+    {% endfor %}
+  </div>
+</div>

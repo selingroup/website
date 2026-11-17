@@ -1,0 +1,44 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+<section class="hero" style="--hero: url('{{ site.hero.image }}')">
+  <div class="wrap hero-inner">
+    <p class="eyebrow light">Massachusetts Institute of Technology</p>
+    <h1>{{ site.hero.heading }}</h1>
+    <p class="hero-text">{{ site.hero.text }}</p>
+    <p><a class="btn btn-primary" href="/research/">Our research</a> <a class="btn btn-ghost" href="/publications/">Publications</a></p>
+  </div>
+</section>
+
+<section class="wrap section">
+  <div class="cards three">
+    {% for t in site.themes %}
+    <a class="card theme" href="/research/">
+      <img src="{{ t.image }}" alt="" loading="lazy">
+      <div class="card-body"><h2>{{ t.title }}</h2><p>{{ t.text }}</p></div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap section two-col">
+    <div>
+      <div class="section-head"><h2>Latest news</h2><a href="/news/">All news →</a></div>
+      <ul class="news-list">
+        {% for post in collections.newsSorted | limit(3) %}
+        <li><time>{{ post.date | readableDate }}</time><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div>
+      <div class="section-head"><h2>Recent publications</h2><a href="/publications/">All publications →</a></div>
+      <ul class="pub-mini">
+        {% for p in publications | limit(4) %}
+        <li><a href="{{ p.url }}">{{ p.title }}</a><span class="muted">{{ p.citation | boldMembers(collections.people, p.not_members) | safe }}</span></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

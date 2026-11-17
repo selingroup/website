@@ -1,0 +1,744 @@
+# Publications list. Newest first. Add new papers at the TOP of this file.
+# Fields: title, citation (authors. year. journal, volume, pages), year, url (main link),
+# optional: more_links (list of {label, url}), news (press coverage URL), featured: true (show on home page).
+
+- title: "Optimal Scenario Design for Climate Emulation"
+  citation: "C. B. Womack, S. Bouabid, A. Sokolov, P. Salunke, G. Flierl, S. D. Eastham, and N. E. Selin. 2026. Proceedings of the National Academy of Sciences (PNAS) 123(46), e2620731123."
+  year: 2026
+  url: https://doi.org/10.1073/pnas.2620731123
+  news: https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112
+
+- title: "Evidence That End-of-Century Emulation Errors Under Overshoot Remain Largely Within Internal Variability in an Earth System Model"
+  citation: "S. Bouabid, C. B. Womack, N. E. Selin, and R. Ferrari. 2026. Environmental Research Letters 21, 164019."
+  year: 2026
+  url: https://doi.org/10.1088/1748-9326/ae9c58
+
+- title: "A Green's Function Approach to Black Carbon: Ensembles of Policy Analysis in Southeast Asia"
+  citation: "L. M. Freese, C. H. Springer, S. D. Eastham, and N. E. Selin. 2026. Earth’s Future, 14(8), e2025EF007851."
+  year: 2026
+  url: https://doi.org/10.1029/2025EF007851
+
+- title: "Quantifying the Wildfire Contribution to PAH Concentrations and Health Effects"
+  citation: "L. Cicone, A. Y. H. Wong, and N. E. Selin. 2026. Environmental Research Letters 21(10), 104011."
+  year: 2026
+  url: https://doi.org/10.1088/1748-9326/ae687f
+
+- title: "Identifying Regions That Can Constrain Anthropogenic Hg Emissions Uncertainties Through Modelling"
+  citation: "C. Gournia, N. E. Selin, and A. Feinberg. 2026. Atmospheric Chemistry and Physics, 26, 5039–5061."
+  year: 2026
+  url: https://doi.org/10.5194/acp-26-5039-2026
+
+- title: "A Geographically Weighted Gaussian Process Regression (GW-GPR) Emulator of Anthropogenic PM2.5 from the GEOS-Chem High Performance (GCHP) 13.0.0 Global Chemical Transport Model"
+  citation: "A. Y. H. Wong, S. D. Eastham, E. Monier, and N. E. Selin. 2026. Geoscientific Model Development, 19, 3335–3360."
+  year: 2026
+  url: https://doi.org/10.5194/gmd-19-3335-2026
+
+- title: "Alternatives to Planetary Boundaries Can Enhance Science-Policy Linkages for Chemicals Governance"
+  citation: "Selin, H. and N. E. Selin. 2026. Earth System Governance 27, 100312"
+  year: 2026
+  url: https://www.sciencedirect.com/science/article/pii/S2589811626000029
+
+- title: "Origin and Limits of Invariant Warming Patterns in Climate Models"
+  citation: "P Giani, A. M. Fiore, G. Flierl, R. Ferrari, and N. E. Selin. 2026. Journal of Climate 39(7), 1681–1701."
+  year: 2026
+  url: https://doi.org/10.1175/JCLI-D-24-0683.1
+
+- title: "A Theoretical Framework to Understand Sources of Error in Earth System Model Emulation"
+  citation: "Womack, C. B., Flierl, G., Bouabid, S., Souza, A. N., Giani, P., Eastham, S. D., and Selin, N. E. 2026. Earth Syst. Dynam., 17, 107–139."
+  year: 2026
+  url: https://doi.org/10.5194/esd-17-107-2026
+
+- title: "Air Quality Impacts of Electricity Purchase and Air Travel by Organizations"
+  citation: "Y. Chen, F. Allroggen, S. D. Eastham, E. M. Gibney, W. C. Clark, and N. E. Selin. 2025. Environmental Research Letters 20, 124056."
+  year: 2025
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ae21f9
+  news: https://news.mit.edu/2025/when-companies-go-green-air-quality-impacts-can-vary-dramatically-1208
+
+- title: "The Impact of Internal Variability on Benchmarking Deep Learning Climate Emulators"
+  citation: "B. Lütjens, R. Ferrari, D. Watson-Parris, and N. E. Selin. 2025. Journal of Advances in Modeling Earth Systems, 17, e2024MS004619."
+  year: 2025
+  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004619
+  news: https://news.mit.edu/2025/simpler-models-can-outperform-deep-learning-climate-prediction-0826
+
+- title: "Emulators of Climate Model Output"
+  citation: "C. Tebaldi, N. E. Selin, R. Ferrari, and G. Flierl. 2025. Annual Review of Environment and Resources, 50:709-737."
+  year: 2025
+  url: https://www.annualreviews.org/content/journals/10.1146/annurev-environ-012125-085838
+
+- title: "Impact of Climate Variability and Change on the Surface Ozone Response to NOx Emissions Reductions"
+  citation: "E. LeRoy, A. Wong, S. Eastham, A. Fiore, and N. E. Selin. 2025. Environmental Science & Technology 59(21), 10422-10433."
+  year: 2025
+  url: https://pubs.acs.org/doi/10.1021/acs.est.5c01347
+  news: https://news.mit.edu/2025/study-climate-change-may-make-it-harder-to-reduce-smog-0522
+
+- title: "Rapid Emulation of Spatially Resolved Temperature Response to Effective Radiative Forcing"
+  citation: "C. Womack, P. Giani, S.D. Eastham, and N. E. Selin. 2025. Journal of Advances in Modeling Earth Systems, 17, e2024MS004523."
+  year: 2025
+  url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004523
+
+- title: "The Multi-Compartment Hg Modeling and Analysis Project (MCHgMAP): Mercury Modeling to Support International Environmental Policy"
+  citation: "A. Dastoor, H. Angot, J. Bieser, F. Brocza, B. Edwards, A. Feinberg, X. Feng, B. Geyman, C. Gournia, Y. He, I. M. Hedgecock, I. Ilyin, J. Kirk, C.-J. Lin, I. Lehnherr, R. Mason, D. McLagan, M. Muntean, P. Rafaj, E. M. Roy, A. Ryjkov, N. E. Selin, F. De Simone, A. L. Soerensen, F. Steenhuisen, O. Travnikov, S. Wang, X. Wang, S. Wilson, R. Wu, Q. Wu, Y. Zhang, J. Zhou, W. Zhu, and S. Zolkos. 2025. Geoscientific Model Development 18(9), 2747–2860."
+  not_members: ["Y. Zhang"]   # same-named outside co-author
+  year: 2025
+  url: https://doi.org/10.5194/gmd-18-2747-2025
+
+- title: "Unexpected Anthropogenic Emission Decreases Explain Recent Atmospheric Mercury Concentration Declines"
+  citation: "A. Feinberg, N. E. Selin, C. F. Braban, K.-L. Chang, D. Custódio, D. A. Jaffe, K. Kyllönen, M. S. Landis, S. R. Leeson, W. Luke, K. M. Molepo, M. Murovec, M. G. Nerentorp Mastromonaco, K. Aspmo Pfaffhuber, J. Rüdiger, G.-R. Sheu, and V. L. St. Louis. 2024. Proceedings of the National Academy of Sciences (PNAS), 121 (42) e2401950121."
+  year: 2024
+  url: https://www.pnas.org/doi/10.1073/pnas.2401950121
+  news: https://news.mit.edu/2024/study-finds-mercury-pollution-from-human-activities-declining-1008
+
+- title: "Spatially Resolved Temperature Response Functions to CO2 Emissions"
+  citation: "L. M. Freese, P. Giani, A. M. Fiore, and N. E. Selin. 2024. Geophysical Research Letters 51(15), e2024GL108788."
+  year: 2024
+  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL108788
+
+- title: "Climate and Air Quality Impact of Using Ammonia as an Alternative Shipping Fuel"
+  citation: "A. Y. H. Wong, N. E. Selin, S. D. Eastham, C. Mounaïm-Rousselle, Y. Zhang, F. Allroggen, 2024. Environmental Research Letters, 19, 084002."
+  year: 2024
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ad5d07
+  news: https://news.mit.edu/2024/study-finds-health-risks-switching-ships-to-ammonia-fuel-0711
+
+- title: "Showcasing Advances and Building Community in Modeling for Sustainability"
+  citation: "N. E. Selin, A. Giang, and W. C. Clark. 2024. Proceedings of the National Academy of Sciences (PNAS), 121 (29) e2215689121."
+  not_members: ["A. Giang"]   # not in the group at time of publication
+  year: 2024
+  url: https://www.pnas.org/doi/10.1073/pnas.2215689121
+
+- title: "Evolution of System Connectivity to Support Food Production in the Indus Basin in Pakistan"
+  citation: "A. Siddiqi, J. L. Wescoat Jr., and N.E. Selin. 2024. Proceedings of the National Academy of Sciences (PNAS) 121 (18) e2215682121."
+  year: 2024
+  url: https://www.pnas.org/doi/full/10.1073/pnas.2215682121
+
+- title: "Deforestation as an Anthropogenic Driver of Mercury Pollution"
+  citation: "A. Feinberg, M. Jiskra, P. Borrelli, J. Biswakarma, and N. E. Selin. 2024. Environmental Science and Technology, 58(7), 3246-3257."
+  year: 2024
+  url: https://pubs.acs.org/doi/10.1021/acs.est.3c07851
+  news: https://news.mit.edu/2024/study-global-deforestation-leads-more-mercury-pollution-0212
+
+- title: "A Systems Analysis of Sustainability Impacts of Agricultural Policies in India"
+  citation: "P. Maji and N. E. Selin. 2024. Earth’s Future, 12, e2023EF003667."
+  year: 2024
+  url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003667
+
+- title: "Progress in Modeling Dynamic Systems for Sustainable Development"
+  citation: "N. E. Selin, A. Giang, and W. C. Clark. 2023. Proceedings of the National Academy of Sciences (PNAS), 120(40), e2216656120."
+  not_members: ["A. Giang"]   # not in the group at time of publication
+  year: 2023
+  url: https://www.pnas.org/doi/10.1073/pnas.2216656120
+
+- title: "Air Quality Related Equity Implications of U.S. Decarbonization Policy"
+  citation: "P. Picciano, M. Qiu, S. D. Eastham, M. Yuan, J. Reilly and N. E. Selin. 2023. Nat Commun 14, 5543"
+  year: 2023
+  url: https://www.nature.com/articles/s41467-023-41131-x
+  news: https://news.mit.edu/2023/improving-us-air-quality-equitably-0927
+
+- title: "Mercury's Complex Legacy"
+  citation: "N. E. Selin. 2023. Proceedings of the National Academy of Sciences (Commentary). 120(33) e2310784120"
+  year: 2023
+  url: https://www.pnas.org/doi/10.1073/pnas.2310784120
+
+- title: "Health Effects of a Global Carbon Price"
+  citation: "N. E. Selin. 2023. Nature Sustainability (News & Views) 6, 1035–1036."
+  year: 2023
+  url: https://doi.org/10.1038/s41893-023-01140-6
+
+- title: "Nuclear Power Generation Phase-Outs Redistribute US Air Quality and Climate-Related Mortality Risk"
+  citation: "L. M. Freese, G. P. Chossière, S. D. Eastham, A. Jenn, and N. E. Selin. 2023. Nature Energy 8:492-503."
+  year: 2023
+  url: https://www.nature.com/articles/s41560-023-01241-8
+  news: https://news.mit.edu/2023/study-shutting-down-nuclear-power-could-increase-air-pollution-0410
+
+- title: "Rapid Estimation of Climate–Air Quality Interactions in Integrated Assessment Using a Response Surface Model"
+  citation: "S. D. Eastham, E. Monier, D. Rothenberg, S. Paltsev, and N. E. Selin. 2023. ACS Environ. Au. 3(3):153-163."
+  year: 2023
+  url: https://pubs.acs.org/doi/10.1021/acsenvironau.2c00054
+  news: https://news.mit.edu/2023/improving-health-outcomes-targeting-climate-air-pollution-simultaneously-0223
+
+- title: "Large Mitigation Potential of Smoke PM2.5 in the US from Human-Ignited Fires"
+  citation: "T. S. Carter, C. L. Heald, and N. E. Selin. 2023. Environmental Research Letters 18(1):014002"
+  year: 2023
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/aca91f
+
+- title: "When Private Governance Impedes Multilateralism: The Case of International Pesticide Governance"
+  citation: "F. Kinniburgh, H. Selin, N. E. Selin, and M. A. Schreurs. 2023. Regulation and Governance, 17:425-448."
+  year: 2023
+  url: https://onlinelibrary.wiley.com/doi/10.1111/rego.12463
+
+- title: "Impacts of Wind Power on Air Quality, Premature Mortality, and Exposure Disparities in the United States"
+  citation: "M. Qiu, C. M. Zigler, and N. E. Selin. 2022. Science Advances 8, eabn8762."
+  year: 2022
+  url: https://www.science.org/doi/10.1126/sciadv.abn8762
+  news: https://news.mit.edu/2022/wind-health-impact-1202
+
+- title: "From Stockholm to Minamata and Beyond: Governing Mercury Pollution for a More Sustainable Future"
+  citation: "H. Selin and N. E. Selin. 2022. One Earth, 5(10):1109-1125."
+  year: 2022
+  url: https://www.sciencedirect.com/science/article/pii/S2590332222004791
+
+- title: "A Tool for Air Pollution Scenarios (TAPS v1.0) to Enable Global, Long-Term, and Flexible Study of Climate and Air Quality Policies"
+  citation: "W. Atkinson, S. D. Eastham, Y. H. H. Chen, J. Morris, S. Paltsev, C. A. Schlosser, and N. E. Selin. 2022. Geosci. Model Dev., 15, 7767–7789."
+  year: 2022
+  url: https://doi.org/10.5194/gmd-15-7767-2022
+  news: https://news.mit.edu/2022/coordinating-climate-air-quality-policies-to-improve-public-health-1026
+
+- title: "Statistical and Machine Learning Methods for Evaluating Trends in Air Quality Under Changing Meteorological Conditions"
+  citation: "M. Qiu, C. Zigler, and N. E. Selin. 2022. Atmos. Chem. Phys., 22, 10551–10566."
+  year: 2022
+  url: https://doi.org/10.5194/acp-22-10551-2022
+
+- title: "The Human-Technical-Environmental Systems Framework for Sustainability Analysis"
+  citation: "H. Selin and N. E. Selin. 2022. Sustainability Science 18, 791–808."
+  year: 2022
+  url: https://link.springer.com/article/10.1007/s11625-022-01177-0
+
+- title: "Evaluating Atmospheric Mercury (Hg) Uptake by Vegetation in a Chemistry-Transport Model"
+  citation: "A. Feinberg, T. Dlamini, M. Jiskra, V. Shah and N. E. Selin. 2022. Environmental Science: Processes & Impacts 24, 1303–1318."
+  year: 2022
+  url: https://pubs.rsc.org/en/content/articlehtml/2022/em/d2em00032f
+
+- title: "What Are the Likely Changes in Mercury Concentration in the Arctic Atmosphere and Ocean Under Future Emissions Scenarios?"
+  citation: "A.T. Schartup, A. L. Soerensen, H. Angot, K. Bowman, and N. E. Selin. 2022. Science of the Total Environment 836, 155477."
+  year: 2022
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0048969722025736
+
+- title: "Meeting U.S. Greenhouse Gas Emissions Goals with the International Air Pollution Provision of the Clean Air Act"
+  citation: "M. Yuan, A. R. Barron, N. E. Selin, P. D. Picciano, L. E. Metz, J. M. Reilly, and H. D. Jacoby. 2022. Environmental Research Letters 17, 054019."
+  year: 2022
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ac6227
+  news: https://news.mit.edu/2022/absent-legislative-victory-president-can-still-meet-us-climate-goals-0503
+
+- title: "The Parallel Transformations of Polycyclic Aromatic Hydrocarbons in the Body and in the Atmosphere"
+  citation: "A.I.H Hrdina, I. N. Kohale, S. Kaushal, J. Kelly, N. E. Selin, B. P. Engelward, J. H. Kroll. 2022. Environmental Health Perspectives 130(2), 025004."
+  year: 2022
+  url: https://ehp.niehs.nih.gov/doi/full/10.1289/EHP9984
+
+- title: "Atmospheric Mercury Sources in a Coastal-Urban Environment: A Case Study in Boston, Massachusetts, USA"
+  citation: "H. Angot, E. Rutkowski, M. Sargent, S. C. Wofsy, L. R. Hutyra, D. Howard, D. Obrist, and N. E. Selin. 2021. Environmental Science: Processes & Impacts 23, 1914–1929."
+  year: 2021
+  url: https://pubs.rsc.org/en/content/articlelanding/2021/EM/D1EM00253H
+
+- title: "Global Cancer Risk from Unregulated Polycyclic Aromatic Hydrocarbons"
+  citation: "J. M. Kelly, P. D. Ivatt, M. J. Evans, J. H. Kroll, A. I. H. Hrdina, I. N. Kohale, F. M. White, B. P. Engelward, and N. E. Selin. 2021. GeoHealth, 5, e2021GH000401"
+  year: 2021
+  url: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GH000401
+  news: https://news.mit.edu/2021/pah-cancer-chemicals-0922
+
+- title: "Global Air Quality and Health Impacts of Domestic and International Shipping"
+  citation: "Zhang, Y., S. Eastham, A.K.H. Lau, J.C.H. Fung and N.E. Selin. 2021. Environmental Research Letters, 16, 084055."
+  year: 2021
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ac146b/pdf
+  news: https://news.mit.edu/2021/smarter-regulation-global-shipping-emissions-could-improve-air-quality-health-outcomes-0817
+
+- title: "Mitigation of CO2 Emissions from International Shipping Through National Allocation"
+  citation: "H. Selin, Y. Zhang, R. Dunn, N.E. Selin and A. K. H. Lau. 2021. Environmental Research Letters, 16(4):045009."
+  year: 2021
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/abec02
+
+- title: "Lessons from a Pandemic for Systems-Oriented Sustainability Research"
+  citation: "N. E. Selin, Science Advances 7:22, eabd8988"
+  year: 2021
+  url: https://www.science.org/doi/epdf/10.1126/sciadv.abd8988
+
+- title: "Improving Evaluation of Energy Policies with Multiple Goals: Comparing Ex Ante and Ex Post Approaches"
+  citation: "M. Qiu, Y. Weng, J. Cao, N. E. Selin, and V. J. Karplus. 2020. Environmental Science & Technology 54(24), 15584–15593."
+  year: 2020
+  url: https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01381
+
+- title: "Mercury Stories: Understanding Sustainability Through a Volatile Element"
+  citation: "H. Selin and N. E. Selin. Cambridge, MA: MIT Press. 2020."
+  year: 2020
+  url: https://mitpress.mit.edu/books/mercury-stories
+  more_links:
+    - {label: Book website, url: "http://mercurystories.org"}
+
+- title: "Mercury Benefits of Climate Policy in China: Addressing the Paris Agreement and the Minamata Convention Simultaneously"
+  citation: "K. M. Mulvaney, N. E. Selin, A. Giang, M. Muntean, C-T. Li, D. Zhang, H. Angot, C. P. Thackray, and V. J. Karplus. 2020. Environmental Science & Technology 54(3):1326-1335."
+  year: 2020
+  url: https://pubs.acs.org/doi/abs/10.1021/acs.est.9b06741
+
+- title: "A Global Atmospheric Chemistry Model for the Fate and Transport of PFCAs and Their Precursors"
+  citation: "C. P. Thackray, N. E. Selin, and C. J. Young. 2020. Environmental Science: Processes and Impacts, 22, 285-293."
+  year: 2020
+  url: https://pubs.rsc.org/en/content/articlelanding/2020/em/c9em00326f
+
+- title: "Atmosphere-Terrestrial Exchange of Gaseous Elemental Mercury: Parameterization Improvement Through Direct Comparison with Measured Ecosystem Fluxes"
+  citation: "T. R. Khan, D. Obrist, Y. Agnan, N. E. Selin, and J. A. Perlinger. 2019. Environmental Science: Processes & Impacts 21, 1699–1712."
+  year: 2019
+  url: https://pubs.rsc.org/en/content/articlehtml/2019/em/c9em00341j
+
+- title: "Health Co-Benefits of Sub-National Renewable Energy Policy in the US"
+  citation: "E. G. Dimanchev, S. Paltsev, M. Yuan, D. Rothenberg, C. W. Tessum, J. D. Marshall, and N. E. Selin. Environmental Research Letters 14(8):085012"
+  year: 2019
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ab31d9
+  news: https://news.mit.edu/2019/shift-renewable-electricity-win-win-statewide-level-0814
+
+- title: "Researcher Engagement in Policy Deemed Societally Beneficial yet Unrewarded"
+  citation: "G. G. Singh, V. F. Farjalla, B. Chen, A. E. Pelling, E. Ceyhan, M. Dominik, E. Alisic, J. Kerr, N. E. Selin, G. Bassioni, E. Bennett, A. H. Kemp, and K. M. A. Chan. Frontiers in Ecology and the Environment 17(7):375-382"
+  year: 2019
+  url: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2084
+
+- title: "Co-Benefits of China's Climate Policy for Air Quality and Human Health in China and Transboundary Regions in 2030"
+  citation: "M. Li, D. Zhang, C-T. Li, N.E. Selin, and V. J. Karplus. Environmental Research Letters 14(8):084006"
+  year: 2019
+  url: https://iopscience.iop.org/article/10.1088/1748-9326/ab26ca
+  news: https://news.mit.edu/2019/health-effects-china-climate-policy-extend-across-pacific-0729
+
+- title: "A Global 3-D Ocean Model for PCBs: Benchmark Compounds for Understanding the Impacts of Global Change on Neutral Persistent Organic Pollutants"
+  citation: "C. Wagner, H. Amos, C. Thackray, Y. Zhang, E. Lundgren, G. Forget, C. Friedman, N. E. Selin, R. Lohmann, and E. Sunderland. 2019. Global Biogeochemical Cycles, 33(3), 469–481."
+  year: 2019
+  url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006018
+  news: https://eos.org/research-spotlights/a-look-at-how-long-banned-pcbs-persist-in-the-ocean
+  not_members: ["Y. Zhang"]   # same-named outside co-author
+
+- title: "Universities Can Lead the Way Supporting Engaged Geoscientists"
+  citation: "A. J. Jefferson, M. A. Kenney, T. M. Hill and N. E. Selin. 2018. Eos, 99, doi:10.1029/2018EO111567."
+  year: 2018
+  url: https://eos.org/opinions/universities-can-lead-the-way-supporting-engaged-geoscientists
+
+- title: "Understanding Mercury Oxidation and Air–Snow Exchange on the East Antarctic Plateau: A Modeling Study"
+  citation: "S. Song, H. Angot, N. E. Selin, H. Gallée, F. Sprovieri, N. Pirrone, D. Helmig, J. Savarino, O. Magand, and A. Dommergue. 2018. Atmos. Chem. Phys., 18, 15825-15840."
+  year: 2018
+  url: https://doi.org/10.5194/acp-18-15825-2018
+
+- title: "Global and Local Impacts of Delayed Mercury Mitigation Efforts"
+  citation: "H. Angot, N. Hoffman, A. Giang, C. P. Thackray, A. N. Hendricks, N. Urban, and N. E. Selin. 2018. Environmental Science and Technology, 52(22):12968-12977."
+  year: 2018
+  url: https://pubs.acs.org/doi/10.1021/acs.est.8b04542
+  news: http://news.mit.edu/2018/study-mercury-controlling-policies-impact-1101
+
+- title: "Evaluating Simplified Chemical Mechanisms Within Present-Day Simulations of the Community Earth System Model Version 1.2 with CAM4 (CESM1.2 CAM-chem): MOZART-4 vs. Reduced Hydrocarbon vs. Super-Fast Chemistry"
+  citation: "Brown-Steiner, B., Selin, N. E., Prinn, R., Tilmes, S., Emmons, L., Lamarque, J.-F., and Cameron-Smith, P. 2018. Geosci. Model Dev., 11, 4155-4174."
+  year: 2018
+  url: https://doi.org/10.5194/gmd-11-4155-2018
+
+- title: "Understanding Factors Influencing the Detection of Mercury Policies in Modelled Laurentian Great Lakes Wet Deposition"
+  citation: "A. Giang, S. Song, M. Muntean, G. Janssens-Maenhout, A. Harvey, E. Berg, and N.E. Selin. 2018. Environmental Science: Processes & Impacts 20, 1373–1389."
+  year: 2018
+  url: https://pubs.rsc.org/en/content/articlelanding/2018/em/c8em00268a
+
+- title: "A Critical Time for Mercury Science to Inform Global Policy"
+  citation: "C. Chen, C. Driscoll, C. Eagles-Smith, C. Eckley, D. Gay, H. Hsu-Kim, S. Keane, J. Kirk, R. Mason, D. Obrist, H. Selin, N. E. Selin, M. Thompson. 2018. Environmental Science and Technology, 52:9556-9561."
+  year: 2018
+  url: https://pubs.acs.org/doi/10.1021/acs.est.8b02286
+  not_members: ["C. Chen"]   # same-named outside co-author
+
+- title: "Maximizing Ozone Signals Among Chemical, Meteorological, and Climatological Variability"
+  citation: "B. Brown-Steiner, N. E. Selin, R. G. Prinn, E. Monier, S. Tilmes, L. Emmons, F. Garcia-Menendez. 2018. Atmospheric Chemistry and Physics, 18, 8373-8388."
+  year: 2018
+  url: https://www.atmos-chem-phys.net/18/8373/2018/
+
+- title: "A Proposed Global Metric to Aid Mercury Pollution Policy"
+  citation: "N.E. Selin, 2018. Science. 360(6389):607-609."
+  year: 2018
+  url: http://science.sciencemag.org/cgi/content/full/360/6389/607?ijkey=2mnHHWfq2n5KY&keytype=ref&siteid=sci
+
+- title: "Air Quality Co-Benefits of Carbon Pricing in China"
+  citation: "M. Li, D. Zhang, C-T. Li, K. M. Mulvaney, N. E. Selin, and V. J. Karplus. 2018. Nature Climate Change 8, 398–403."
+  year: 2018
+  url: https://www.nature.com/articles/s41558-018-0139-4
+  news: https://news.mit.edu/2018/study-health-benefits-will-offset-cost-china-climate-policy-0423
+
+- title: "Present and Future Mercury Concentrations in Chinese Rice: Insights from Modeling"
+  citation: "S. Y. Kwon, N. E. Selin, A. Giang, V. J. Karplus, and D. Zhang. 2018. Global Biogeochemical Cycles, 32:437-462."
+  year: 2018
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/2017GB005824
+  news: https://theconversation.com/another-problem-with-chinas-coal-mercury-in-rice-92974
+
+- title: "Evaluating EDGARv4.tox2 Speciated Mercury Emissions Ex-Post Scenarios and Their Impacts on Modelled Global and Regional Wet Deposition Patterns"
+  citation: "M. Muntean, G. Janssens-Maenhout, S. Song, A. Giang, N. E. Selin, H. Zhong, Y. Zhao, J. G. J. Olivier, D. Guizzardi, M. Crippa, E. Schaaf, F. Dentener. 2018. Atmospheric Environment 184:56-68."
+  year: 2018
+  url: https://doi.org/10.1016/j.atmosenv.2018.04.017
+
+- title: "Synthesis of the Southeast Atmosphere Studies: Investigating Fundamental Atmospheric Chemistry Questions"
+  citation: "A. G. Carlton, J. de Gouw, J.L. Jimenez, J. L. Ambrose, A. Attwood, S. Brown, K. R. Baker, C. A. Brock, R.C. Cohen, S. Edgerton, C. Farkas, D. Farmer, A. H. Goldstein, L. Gratz, A. Guenther, S. Hunt, L. Jaeglé, D. A. Jaffe, J. Mak, C. McClure, A. Nenes, T. K.V. Nguyen, J. R. Pierce, S. S. de Sa, N.E. Selin, V. Shah, S. Shaw, P. B. Shepson, S. Song, J. Stutz, J. Surratt, B. J. Turpin, C. Warneke, R. A. Washenfelder, P. O. Wennberg, X. Zhou. 2018. Bulletin of the American Meteorological Society (BAMS), 99(3):547-567"
+  year: 2018
+  url: https://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-16-0048.1
+
+- title: "Linking Science and Policy to Support the Implementation of the Minamata Convention on Mercury"
+  citation: "H. Selin, S. E. Keane, S. Wang, N.E. Selin, K. Davis, and D. Bally. 2018. Ambio, 47(2):198-215."
+  year: 2018
+  url: https://link.springer.com/content/pdf/10.1007%2Fs13280-017-1003-x.pdf
+
+- title: "A Review of Global Environmental Mercury Processes in Response to Human and Natural Perturbations: Changes of Emissions, Climate, and Land Use"
+  citation: "D. Obrist, J. Kirk, L. Zhang, E. Sunderland, M. Jiskra, and N. E. Selin. 2018. Ambio, 47(2):116-140."
+  year: 2018
+  url: https://link.springer.com/content/pdf/10.1007%2Fs13280-017-1004-9.pdf
+
+- title: "Responses of Deposition and Bioaccumulation in the Great Lakes Region to Policy and Other Large-Scale Drivers of Mercury Emissions"
+  citation: "J. A. Perlinger, N. R. Urban, A. Giang, N. E. Selin, A. N. Hendricks, H. Zhang, A. Kumar, S. Wu, V. S. Gagnon, H. S. Gorman, and E. S. Norman. 2018. Environmental Science: Processes & Impacts 20, 195–209."
+  year: 2018
+  url: http://dx.doi.org/10.1039/C7EM00547D
+
+- title: "Model Use in Sustainability Policy Making: An Experimental Study"
+  citation: "E. Czaika and N. E. Selin. 2017. Environmental Modelling and Software, 98:54-62."
+  year: 2017
+  url: https://doi.org/10.1016/j.envsoft.2017.09.001
+
+- title: "Sensitivity of Inorganic Aerosol Radiative Effects to U.S. Emissions"
+  citation: "Holt, J. I., S. Solomon, and N. E. Selin. 2017. J. Geophys. Res. Atmos., 122, 6379–6390."
+  year: 2017
+  url: http://onlinelibrary.wiley.com/doi/10.1002/2016JD025890/full
+
+- title: "Multi-Model Study of Mercury Dispersion in the Atmosphere: Vertical Distribution of Mercury Species"
+  citation: "J. Bieser, F. Slemr, J. Ambrose, C. Brenninkmeijer, S. Brooks, A. Dastoor, F. DeSimone, R. Ebinghaus, C. Gencarelli, B. Geyer, L. E. Gratz, I. M. Hedgecock, D. Jaffe, P. Kelley, C.-J. Lin, V. Matthias, A. Ryjkov, N.E. Selin, S. Song, O. Travnikov, A. Weigelt, W. Luke, X. Ren, A. Zahn, X. Yang, Y. Zhu, and N. Pirrone. 2017. Atmospheric Chemistry and Physics, 17, 6925–6955."
+  year: 2017
+  url: https://www.atmos-chem-phys.net/17/6925/2017/acp-17-6925-2017.pdf
+
+- title: "Multi-Model Study of Mercury Dispersion in the Atmosphere: Atmospheric Processes and Model Evaluation"
+  citation: "O. Travnikov, H. Angot, P. Artaxo, M. Bencardino, J. Bieser, F. D’Amore, A. Dastoor, F. De Simone, M. del Carmen Diéguez, A. Dommergue, R. Ebinghaus, X. Feng, C.N. Gencarelli, I.M. Hedgecock, O. Magand, L. Martin, V. Matthias, N. Mashyanov, N. Pirrone, R. Ramachandran, K.A. Read, A. Ryjkov, N. E. Selin, F. Sena, S. Song, F. Sprovieri, D. Wip, I. Wängberg, and X. Yang. 2017. Atmospheric Chemistry and Physics 17, 5271–5295."
+  year: 2017
+  url: http://www.atmos-chem-phys-discuss.net/acp-2016-924/
+
+- title: "The Role of Natural Variability in Projections of Climate Change Impacts on U.S. Ozone Pollution"
+  citation: "F. Garcia-Menendez, E. Monier, and N. E. Selin. 2017. Geophysical Research Letters 44, 2911–2921."
+  year: 2017
+  url: http://onlinelibrary.wiley.com/doi/10.1002/2016GL071565/abstract
+
+- title: "Uncertainty and Variability in Atmospheric Formation of PFCAs from Fluorotelomer Precursors"
+  citation: "C. P. Thackray and N. E. Selin. 2017. Atmospheric Chemistry and Physics 17, 4585–4597."
+  year: 2017
+  url: http://www.atmos-chem-phys-discuss.net/acp-2016-679/
+
+- title: "The Need to Build Policy Literacy into Climate Science Education"
+  citation: "N. E. Selin, L. C. Stokes, and L. Susskind. 2017. WIREs Climate Change, 8:e455."
+  year: 2017
+  url: http://onlinelibrary.wiley.com/doi/10.1002/wcc.455/full
+
+- title: "Human Health and Economic Impacts of Ozone Reductions by Income Group"
+  citation: "R. K. Saari, T. M. Thompson, and N. E. Selin. 2017. Environmental Science and Technology, 51(4):1953-1961."
+  year: 2017
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.est.6b04708
+  more_links:
+    - {label: PDF, url: "https://globalchange.mit.edu/sites/default/files/MITJPSPGC_Reprint_17-3.pdf"}
+  news: http://news.mit.edu/2017/modeling-unequal-benefits-us-environmental-policy-0215
+
+- title: "Using Inclusive Wealth for Policy Evaluation: Application to Electricity Infrastructure Planning in Oil-Exporting Countries"
+  citation: "R. D. Collins, N. E. Selin, O. L. de Weck, and W. C. Clark. 2017. Ecological Economics 133:23-34."
+  year: 2017
+  url: https://authors.elsevier.com/a/1U8C-3Hb~0AtqV
+
+- title: "Splitting the South: China and India's Divergence in International Environmental Negotiations"
+  citation: "L.C. Stokes, A. Giang and N.E. Selin. 2016. Global Environmental Politics 16(4):12-31."
+  year: 2016
+  url: http://www.mitpressjournals.org/doi/abs/10.1162/GLEP_a_00378
+
+- title: "Airborne Observations of Mercury Emissions from the Chicago/Gary Urban/Industrial Area During the 2013 NOMADSS Campaign"
+  citation: "L. E. Gratz, J. L. Ambrose, D. A. Jaffe, C. Knote, L. Jaeglé, N. E. Selin, T. Campos, F. M. Flocke, M. Reeves, D. Stechman, M. Stell, A. J. Weinheimer, D. J. Knapp, D. D. Montzka, G. S. Tyndall, R. L. Mauldin III, C. A. Cantrell, E. C. Apel, R. S. Hornbrook, N. J. Blake. 2016. Atmospheric Environment 145, 415–423."
+  year: 2016
+  url: http://dx.doi.org/10.1016/j.atmosenv.2016.09.051
+
+- title: "Costs of IQ Loss from Leaded Aviation Gasoline Emissions"
+  citation: "P. J. Wolfe, A. Giang, A. Ashok, N. E. Selin and S. R. H. Barrett. 2016. Environmental Science and Technology 50(17):9026-9033"
+  year: 2016
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.est.6b02910
+  news: https://news.mit.edu/2016/unfriendly-skies-piston-engine-aircraft-pose-significant-health-threat-0826
+
+- title: "Measurement and Modeling of Atmosphere-Surface Exchangeable Pollutants (ASEPs) to Better Understand Their Environmental Cycling and Planetary Boundaries"
+  citation: "J. A. Perlinger, H. S. Gorman, E. S. Norman, D. Obrist, N. E. Selin, N. R. Urban, and S. Wu. 2016. Environmental Science and Technology (Viewpoint). 50:8932-8934."
+  year: 2016
+  url: https://doi.org/10.1021/acs.est.6b03447
+
+- title: "Taking Action to Reduce Waste: Quantifying Impacts of Model Use in a Multi-Organizational Sustainability Negotiation"
+  citation: "E. Czaika and N.E. Selin. 2016. Negotiation and Conflict Management Research, 9: 237–255."
+  year: 2016
+  url: http://onlinelibrary.wiley.com/doi/10.1111/ncmr.12074/full
+
+- title: "Teaching and Learning from Environmental Summits: COP-21 and Beyond"
+  citation: "N. E. Selin. 2016. Global Environmental Politics, 16(3):31-40."
+  year: 2016
+  url: http://www.mitpressjournals.org/doi/abs/10.1162/GLEP_a_00364
+
+- title: "Air Quality Co-Benefits of Sub-National Carbon Policies"
+  citation: "T. M. Thompson, S. Rausch, R.K. Saari, and N.E. Selin. 2016. Journal of the Air and Waste Management Association, 66(10):988-1002."
+  year: 2016
+  url: http://www.tandfonline.com/doi/full/10.1080/10962247.2016.1192071
+
+- title: "Uncertainties in Atmospheric Mercury Modeling for Policy Evaluation"
+  citation: "S. Y. Kwon and N. E. Selin. 2016. Current Pollution Reports, 2(2), 103–114."
+  year: 2016
+  url: http://link.springer.com/article/10.1007/s40726-016-0030-8
+
+- title: "Constraints from Observations and Modeling on Atmosphere-Surface Exchange of Mercury in Eastern North America"
+  citation: "S. Song, N.E. Selin, L. E. Gratz, J. L. Ambrose, D. A. Jaffe, V. Shah, L. Jaeglé, A. Giang, B. Yuan, L. Kaser, E. C. Apel, R. S. Hornbrook, N. J. Blake, A. J. Weinheimer, R. L. Mauldin III, C. A. Cantrell, M. S. Castro, G. Conley, T. M. Holsen, W. T. Luke, R. Talbot. 2016. Elementa: Science of the Anthropocene. doi: 10.12952/journal.elementa.000100"
+  year: 2016
+  url: https://elementascience.org/articles/100
+
+- title: "PCBs in the Arctic Atmosphere: Determining Important Driving Forces Using a Global Atmospheric Transport Model"
+  citation: "C. L. Friedman and N.E. Selin. 2016. Atmospheric Chemistry and Physics, 16: 3433-3448."
+  year: 2016
+  url: https://doi.org/10.5194/acp-16-3433-2016
+
+- title: "Importance of Integration and Implementation of Emerging and Future Mercury Research into the Minamata Convention"
+  citation: "M. S. Gustin, D. C. Evers, M. S. Bank, C. R. Hammerschmidt, A. Pierce, N. Basu, J. Blum, P. Bustamante, C. Chen, C. T. Driscoll, M. Horvat, D. Jaffe, J. Pacyna, N. Pirrone, and N. E. Selin. 2016. Environmental Science and Technology (Viewpoint), 50:2767-2770"
+  year: 2016
+  url: http://pubs.acs.org/doi/pdf/10.1021/acs.est.6b00573
+  not_members: ["C. Chen"]   # same-named outside co-author
+
+- title: "Benefits of Mercury Controls for the United States"
+  citation: "A. Giang and N. E. Selin, 2016. Proceedings of the National Academy of Sciences. 113(2):286-291"
+  year: 2016
+  url: http://www.pnas.org/content/early/2015/12/22/1514395113.abstract
+  news: https://news.mit.edu/2015/reductions-mercury-billions-economic-benefits-1228
+
+- title: "Origin of Oxidized Mercury in the Summertime Free Troposphere over the Southeastern U.S."
+  citation: "V. Shah, L. Jaeglé, L. E. Gratz, J. L. Ambrose, D. A. Jaffe, N.E. Selin, S. Song, T. L. Campos, F. M. Flocke, M. Reeves, D. Stechman, M. Stell, J. Festa, J. Stutz, A. J. Weinheimer, D. J. Knapp, D. D. Montzka, G. S. Tyndall, E. C. Apel, R. S. Hornbrook, A. J. Hills, D. D. Riemer, N. J. Blake, C. A. Cantrell, and R. L. Mauldin III. 2016. Atmospheric Chemistry and Physics, 16, 1511-1530."
+  year: 2016
+  url: http://www.atmos-chem-phys.net/16/1511/2016/acp-16-1511-2016.pdf
+
+- title: "The Mercury Game: Evaluating a Negotiation Simulation That Teaches Students About Science-Policy Interactions"
+  citation: "L. C. Stokes and N. E. Selin. 2016. Journal of Environmental Studies and Sciences, 6:597-605."
+  year: 2016
+  url: http://link.springer.com/article/10.1007/s13412-014-0183-y
+
+- title: "Chemical Cycling and Deposition of Atmospheric Mercury in Polar Regions: Review of Recent Measurements and Comparison with Models"
+  citation: "H. Angot, A. Dastoor, F. De Simone, K. Gårdfeldt, C. N. Gencarelli, I. M. Hedgecock, S. Langer, O. Magand, M. N. Mastromonaco, C. Nordstrøm, K. A. Pfaffhuber, N. Pirrone, A. Ryjkov, N. E. Selin, H. Skov, S. Song, F. Sprovieri, A. Steffen, K. Toyota, O. Travnikov, X. Yang, and A. Dommergue. 2016. Atmospheric Chemistry and Physics 16, 10735–10763."
+  year: 2016
+  url: https://doi.org/10.5194/acp-16-10735-2016
+
+- title: "Oxidation of Mercury by Bromine in the Subtropical Pacific Free Troposphere"
+  citation: "L. E. Gratz, J. L. Ambrose, D. A. Jaffe, V. Shah, L. Jaeglé, J. Stutz, J. Festa, M. Spolaor, C. Tsai, N. E. Selin, S. Song, X. Zhou, A. J. Weinheimer, D. J. Knapp, D. D. Montzka, F. M. Flocke, T. L. Campos, E. Apel, R. Hornbrook, N. J. Blake, S. Hall, G. S. Tyndall, M. Reeves, D. Stechman, and M. Stell. 2015. Geophysical Research Letters, 42(23):10,494-10,502."
+  year: 2015
+  url: http://onlinelibrary.wiley.com/doi/10.1002/2015GL066645/full
+
+- title: "Quantitative Assessment of Parametric Uncertainty in Northern Hemisphere PAH Concentrations"
+  citation: "C. P. Thackray, C. L. Friedman, Y. Zhang and N. E. Selin. 2015. Environmental Science and Technology, 49(15): 9185-9193."
+  year: 2015
+  url: http://pubs.acs.org/doi/pdf/10.1021/acs.est.5b01823
+  not_members: ["Y. Zhang"]   # same-named outside co-author
+
+- title: "Top-Down Constraints on Atmospheric Mercury Emissions and Implications for Global Biogeochemical Cycling"
+  citation: "S. Song, N. E. Selin, A. L. Soerensen, H. Angot, R. Artz, S. Brooks, E.-G. Brunke, G. Conley, A. Dommergue, R. Ebinghaus, T. M. Holsen, D. A. Jaffe, S. Kang, P. Kelley, W. T. Luke, O. Magand, K. Marumoto, K. A. Pfaffhuber, X. Ren, G.-R. Sheu, F. Slemr, T. Warneke, A. Weigelt, P. Weiss-Penzias, D. C. Wip and Q. Zhang. 2015. Atmospheric Chemistry and Physics 15, 7103-7125."
+  year: 2015
+  url: http://www.atmos-chem-phys.net/15/7103/2015/acp-15-7103-2015.html
+  news: http://newsoffice.mit.edu/2015/better-estimates-of-worldwide-mercury-pollution-0812
+
+- title: "U.S. Air Quality and Health Benefits from Avoided Climate Change Under Greenhouse Gas Mitigation"
+  citation: "F. Garcia-Menendez, R. K. Saari, E. Monier and N. E. Selin. 2015. Environmental Science and Technology 49(13), 7580–7588."
+  year: 2015
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.est.5b01324
+
+- title: "Impacts of the Minamata Convention on Mercury Emissions and Global Deposition from Coal-Fired Power Generation in Asia"
+  citation: "A. Giang, L. C. Stokes, D. G. Streets, E. S. Corbitt, and N. E. Selin. 2015. Environmental Science and Technology 49, 5326-5335. doi: 10.1021/acs.est.5b00074"
+  year: 2015
+  url: http://globalchange.mit.edu/files/document/MITJPSPGC_Reprint_15-6.pdf
+
+- title: "Changes in Inorganic Fine Particulate Matter Sensitivities to Precursors Due to Large-Scale US Emissions Reductions"
+  citation: "J. Holt, N. E. Selin, and S. Solomon. 2015. Environmental Science and Technology, 49(8), 4834-4841."
+  year: 2015
+  url: http://pubs.acs.org/doi/abs/10.1021/acs.est.5b00008
+
+- title: "Use of a Global Model to Understand Speciated Atmospheric Mercury Observations at Five High-Elevation Sites"
+  citation: "P. Weiss-Penzias, H. M. Amos, N.E. Selin, M. S. Gustin, D. A. Jaffe, D. Obrist, G. R. Sheu, and A. Giang. 2015. Atmospheric Chemistry and Physics 15:1161-1173."
+  year: 2015
+  url: http://www.atmos-chem-phys.net/15/1161/2015/acp-15-1161-2015.html
+
+- title: "A Self-Consistent Method to Assess Air Quality Co-Benefits from US Climate Policies"
+  citation: "R.K. Saari, N.E. Selin, S. Rausch and T.M. Thompson. 2015. Journal of the Air and Waste Management Association, 65(1):74-89."
+  year: 2015
+  url: http://www.tandfonline.com/doi/full/10.1080/10962247.2014.959139
+
+- title: "A Systems Approach to Evaluating the Air Quality Co-Benefits of U.S. Carbon Policies"
+  citation: "T.M. Thompson, S. Rausch, R. K. Saari, and N. E. Selin. 2014. Nature Climate Change 4, 917–923."
+  year: 2014
+  url: http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2342.html
+  news: https://news.mit.edu/2014/cutting-carbon-health-care-savings-0824
+
+- title: "Trend Analysis from 1970 to 2008 and Model Evaluation of EDGARv4 Global Gridded Anthropogenic Mercury Emissions"
+  citation: "M. Muntean, G. Janssens-Maenhout, S. Song, N. E. Selin, J. G. J. Olivier, D. Guizzardi, R. Maas and F. Dentener. 2014. Science of the Total Environment, 494-495:337-350."
+  year: 2014
+  url: http://www.sciencedirect.com/science/article/pii/S0048969714008572
+
+- title: "Assessing the Influence of Secondary Organic versus Primary Carbonaceous Aerosols on Long-Range Atmospheric Polycyclic Aromatic Hydrocarbon Transport"
+  citation: "C. L. Friedman, J. R. Pierce, and N. E. Selin. 2014. Environmental Science and Technology 48(6):3293-3302."
+  year: 2014
+  url: http://dx.doi.org/10.1021/es405219r
+
+- title: "Climate Change and Emissions Impacts on Atmospheric PAH Transport to the Arctic"
+  citation: "C. L. Friedman, Y. Zhang, and N. E. Selin. 2014. Environmental Science and Technology, 48:429-437"
+  year: 2014
+  url: http://globalchange.mit.edu/files/document/MITJPSPGC_Reprint_13-30.pdf
+  not_members: ["Y. Zhang"]   # same-named outside co-author
+
+- title: "Global Change and Mercury Cycling: Challenges for Implementing a Global Mercury Treaty"
+  citation: "N. E. Selin, 2014. Environmental Toxicology and Chemistry, 33(6):1202-1210."
+  year: 2014
+  url: http://onlinelibrary.wiley.com/doi/10.1002/etc.2374/abstract
+  news: https://news.mit.edu/2013/minamata-convention-study
+
+- title: "Air Quality Resolution for Health Impacts Assessment: Influence of Regional Characteristics"
+  citation: "T. M. Thompson, R. K. Saari, and N. E. Selin. 2014. Atmospheric Chemistry and Physics 14:969-978"
+  year: 2014
+  url: http://www.atmos-chem-phys.net/14/969/2014/acp-14-969-2014.pdf
+
+- title: "Mercury in the Anthropocene Ocean"
+  citation: "C. Lamborg, K. Bowman, C. Hammerschmidt, C. Gilmour, K. Munson, N. E. Selin, and C-M. Tseng. 2014. Oceanography, 27(1):76-87."
+  year: 2014
+  url: http://www.tos.org/oceanography/archive/27-1_lamborg.html
+
+- title: "Future Trends in Environmental Mercury Concentrations: Implications for Prevention Strategies"
+  citation: "E. M. Sunderland and N.E. Selin, 2013. Environmental Health, 12(2), doi:10.1186/1476-069X-12-2"
+  year: 2013
+  url: http://www.ehjournal.net/content/12/1/2/abstract
+  news: https://news.mit.edu/2013/strategies-to-reduce-mercury-revealed-ahead-of-international-talks
+
+- title: "Valuing Climate Impacts in Integrated Assessment Models: The MIT IGSM"
+  citation: "J. Reilly, S. Paltsev, K. Strzepek, N. E. Selin, Y. Cai, K. M. Nam, E. Monier, S. Dutkiewicz, J. Scott, M. Webster, and A. Sokolov. 2013. Climatic Change, 117(3): 561-573."
+  year: 2013
+  url: http://globalchange.mit.edu/files/document/MITJPSPGC_Reprint_12-33.pdf
+
+- title: "Integrating Mercury Science and Policy in the Marine Context: Challenges and Opportunities"
+  citation: "K. F. Lambert, D. C. Evers, K. A. Warner, S. L. King, L. Levin, and N. E. Selin. 2012. Environmental Research, 119:132-142."
+  year: 2012
+  url: http://www.sciencedirect.com/science/article/pii/S0013935112001855
+
+- title: "Health Damages from Air Pollution in China"
+  citation: "K. Matus, K. M. Nam, N.E. Selin, L.N. Lamsal, J. M. Reilly, and S. Paltsev. 2012. Global Environmental Change, 22(1):55-66"
+  year: 2012
+  url: http://www.sciencedirect.com/science/article/pii/S0959378011001233
+  more_links:
+    - {label: PDF, url: "http://web.mit.edu/selin/www/pubs/matusetal_gec_2012.pdf"}
+
+- title: "Long-Range Atmospheric Transport of Polycyclic Aromatic Hydrocarbons: A Global 3-D Model Analysis Including Evaluation of Arctic Sources"
+  citation: "C.L. Friedman and N.E. Selin. 2012. Environmental Science and Technology, 46, 9501-9510."
+  year: 2012
+  url: http://pubs.acs.org/doi/abs/10.1021/es301904d
+  more_links:
+    - {label: PDF, url: "http://globalchange.mit.edu/files/document/MITJPSPGC_Reprint_12-15.pdf"}
+  news: https://news.mit.edu/2012/how-chemicals-get-to-the-arctic-0910
+
+- title: "Influence of Air Quality Model Resolution on Uncertainty Associated with Health Impacts"
+  citation: "T. M. Thompson and N. E. Selin. 2012. Atmospheric Chemistry and Physics, 12, 9753-9762."
+  year: 2012
+  url: http://www.atmos-chem-phys.net/12/9753/2012/acp-12-9753-2012.html
+
+- title: "Science and Strategies to Reduce Mercury Risks: A Critical Review"
+  citation: "N.E. Selin. 2011. Journal of Environmental Monitoring, 13:2389-2399"
+  year: 2011
+  url: http://web.mit.edu/selin/www/pubs/jem_scale.pdf
+
+- title: "Measuring Welfare Loss Caused by Air Pollution in Europe: A CGE Analysis"
+  citation: "K. M. Nam, N.E. Selin, J. M. Reilly, and S. Paltsev. 2010. Energy Policy, 38:5059-5071."
+  year: 2010
+  url: http://globalchange.mit.edu/files/document/MITJPSPGC_Rpt178.pdf
+
+- title: "Sources of Mercury Exposure for U.S. Seafood Consumers: Implications for Policy"
+  citation: "N.E. Selin, E. M. Sunderland, C.D. Knightes, and R.P. Mason. 2010. Environmental Health Perspectives, 118(1):137-143."
+  year: 2010
+  url: http://ehp.niehs.nih.gov/0900811/
+
+- title: "Global Biogeochemical Cycling of Mercury: A Review"
+  citation: "N.E. Selin, 2009. Annual Review of Environment and Resources, 34:43-63"
+  year: 2009
+  url: http://arjournals.annualreviews.org/eprint/nhtPKhx7rPakbF35vxUv/full/10.1146/annurev.environ.051308.084314
+
+- title: "Global Health and Economic Impacts of Future Ozone Pollution"
+  citation: "N.E. Selin, S. Wu, K.M. Nam, J.M. Reilly, S. Paltsev, R. Prinn and M.D. Webster. 2009. Environmental Research Letters, 4, 044014, doi:10.1088/1748-9326/4/4/044014"
+  year: 2009
+  url: http://iopscience.iop.org/1748-9326/4/4/044014/pdf/erl9_4_044014.pdf
+
+- title: "An Analysis of Simulated Wet Deposition of Mercury from the North American Mercury Model Intercomparison Study (NAMMIS)"
+  citation: "O.R. Bullock Jr., D. Atkinson, T. Braverman, K. Civerolo, A. Dastoor, D. Davignon, J-Y. Ku, K. Lohman, T. Myers, R. Park, C. Seigneur, N.E. Selin, G. Sistla, and K. Vijayaraghavan. 2009. Journal of Geophysical Research-Atmospheres, 114, D08301."
+  year: 2009
+  url: http://onlinelibrary.wiley.com/doi/10.1029/2008JD011224/full
+
+- title: "Impact of Mercury Emissions from Historic Gold and Silver Mining: Global Modeling"
+  citation: "S. Strode, L. Jaeglé and N.E. Selin. 2009. Atmospheric Environment, 43(12), 2012-2017"
+  year: 2009
+  url: http://www.atmos.washington.edu/~jaegle/group/Publications_files/Atmos%20Environ%202009%20Strode.pdf
+
+- title: "The North American Mercury Model Intercomparison Study (NAMMIS). Study Description and Model-to-Model Comparisons"
+  citation: "O.R. Bullock Jr., D. Atkinson, T. Braverman, K. Civerolo, A. Dastoor, D. Davignon, J-Y. Ku, K. Lohman, T. Myers, R. Park, C. Seigneur, N.E. Selin, G. Sistla, and K. Vijayaraghavan. 2008. Journal of Geophysical Research-Atmospheres, 113, D17310, doi:10.1029/2008JD009803."
+  year: 2008
+  url: http://onlinelibrary.wiley.com/doi/10.1029/2008JD009803/full
+
+- title: "Indigenous Peoples in International Environmental Cooperation: Arctic Management of Hazardous Substances"
+  citation: "H. Selin and N.E. Selin. 2008. Review of European Community and International Environmental Law, 17(1):72-83, doi:10.1111/j.1467-9388.2008.00589.x."
+  year: 2008
+  url: http://selingroup.scripts.mit.edu/wp/pubs/reciel_pops.pdf
+
+- title: "Seasonal and Spatial Patterns of Mercury Wet Deposition in the United States: Constraints on the Contribution from North American Anthropogenic Sources"
+  citation: "N.E. Selin and D.J. Jacob. 2008. Atmospheric Environment, 42, 5193-5204, doi:10.1016/j.atmosenv.2008.02.069."
+  year: 2008
+  url: http://acmg.seas.harvard.edu/publications/2008/selin2008b.pdf
+
+- title: "Global 3-D Land-Ocean-Atmosphere Model for Mercury: Present-Day versus Preindustrial Cycles and Anthropogenic Enrichment Factors for Deposition"
+  citation: "N.E. Selin, D.J. Jacob, R.M. Yantosca, S. Strode, L. Jaeglé, and E.M. Sunderland. 2008. Global Biogeochemical Cycles, 22, GB2011, doi:10.1029/2007GB003040."
+  year: 2008
+  url: http://acmg.seas.harvard.edu/publications/2008/selin2008a.pdf
+
+- title: "Trans-Pacific Transport of Mercury"
+  citation: "S. Strode, L. Jaeglé, D.A. Jaffe, P.C. Swartzendruber, N.E. Selin, C. Holmes, and R.M. Yantosca. 2008. Journal of Geophysical Research-Atmospheres, 113, D15305, doi:10.1029/2007JD009428."
+  year: 2008
+  url: http://www.atmos.washington.edu/~jaegle/group/Publications_files/J%20Geophys%20Res-Atmos%202008%20Strode.pdf
+
+- title: "Reconciling Models and Measurements to Assess Trends in Atmospheric Mercury Deposition"
+  citation: "E. M. Sunderland, M. Cohen, N.E. Selin, and G.L. Chmura. 2008. Environmental Pollution, 156:526-535, doi:10.1016/j.envpol.2008.01.021."
+  year: 2008
+  url: http://acmg.seas.harvard.edu/publications/2008/sunderland2008.pdf
+
+- title: "Chemical Cycling and Deposition of Atmospheric Mercury: Global Constraints from Observations"
+  citation: "N.E. Selin, D.J. Jacob, R.J. Park, R.M. Yantosca, S. Strode, L. Jaeglé and D. Jaffe, 2007. Journal of Geophysical Research-Atmospheres, 112, D02308, doi:10.1029/2006JD007450."
+  year: 2007
+  url: http://acmg.seas.harvard.edu/publications/2007/selin2007a.pdf
+
+- title: "Air-Sea Exchange in the Global Mercury Cycle"
+  citation: "S. Strode, L. Jaeglé, N.E. Selin, D.J. Jacob, R.J. Park, R.M. Yantosca, R.P. Mason, and F. Slemr, 2007. Global Biogeochemical Cycles, 21, GB1017, doi:10.1029/2006GB002766."
+  year: 2007
+  url: http://acmg.seas.harvard.edu/publications/2007/strode2007.pdf
+
+- title: "Global Politics of Mercury Pollution: The Need for Multi-Scale Governance"
+  citation: "N.E. Selin and H. Selin. 2006. Review of European Community and International Environmental Law 15(3):258-269."
+  year: 2006
+  url: http://selingroup.scripts.mit.edu/wp/pubs/RECIEL_final.pdf
+
+- title: "Observations of Reactive Gaseous Mercury in the Free-Troposphere at the Mt. Bachelor Observatory"
+  citation: "P.C. Swartzendruber, D.A. Jaffe, E.M. Prestbo, P. Weiss-Penzias, N.E. Selin, R. Park, D. Jacob, S. Strode, and L. Jaeglé, 2006. Journal of Geophysical Research-Atmospheres, 111, D24301, 10.1029/2006JD007415."
+  year: 2006
+  url: http://acmg.seas.harvard.edu/publications/2006/swartzendruber2006.pdf
+
+- title: "Mercury Rising: Is Global Action Needed to Protect Human Health and the Environment?"
+  citation: "N.E. Selin. 2005. Environment 47(1):22-35."
+  year: 2005
+  url: http://acmg.seas.harvard.edu/publications/2005/selin_2005environment.pdf
+
+- title: "All Talk, Little Action: Precaution and European Chemicals Regulation"
+  citation: "N. Eckley and H. Selin. 2004. Journal of European Public Policy 11:1 February 2004, 78-105."
+  year: 2004
+  url: http://web.mit.edu/selin/www/pubs/Jepp-chemicals.pdf
+
+- title: "Knowledge Systems for Sustainable Development"
+  citation: "D. W. Cash, W. C. Clark, F. Alcock, N. M. Dickson, N. Eckley, D. H. Guston, J. Jäger, and R. B. Mitchell. 2003. Proceedings of the National Academy of Sciences (PNAS) 100(14), 8086–8091."
+  year: 2003
+  url: https://doi.org/10.1073/pnas.1231332100
+
+- title: "A Framework for Vulnerability Analysis in Sustainability Science"
+  citation: "B. L. Turner II, R. E. Kasperson, P. A. Matson, J. J. McCarthy, R. W. Corell, L. Christensen, N. Eckley, J. X. Kasperson, A. Luers, M. L. Martello, C. Polsky, A. Pulsipher, and A. Schiller. 2003. Proceedings of the National Academy of Sciences (PNAS) 100(14), 8074–8079."
+  year: 2003
+  url: https://doi.org/10.1073/pnas.1231335100
+
+- title: "Illustrating the Coupled Human–Environment System for Vulnerability Analysis: Three Case Studies"
+  citation: "B. L. Turner II, P. A. Matson, J. J. McCarthy, R. W. Corell, L. Christensen, N. Eckley, G. K. Hovelsrud-Broda, J. X. Kasperson, R. E. Kasperson, A. Luers, M. L. Martello, S. Mathiesen, R. Naylor, C. Polsky, A. Pulsipher, A. Schiller, H. Selin, and N. Tyler. 2003. Proceedings of the National Academy of Sciences (PNAS) 100(14), 8080–8085."
+  year: 2003
+  url: https://doi.org/10.1073/pnas.1231334100
+
+- title: "Science, Politics, and Persistent Organic Pollutants: The Role of Scientific Assessments in International Environmental Co-operation"
+  citation: "H. Selin and N. Eckley. 2003. International Environmental Agreements: Politics, Law and Economics 3(1), 17–42."
+  year: 2003
+  url: https://doi.org/10.1023/A:1021355802732
+
+- title: "Dependable Dynamism: Lessons for Designing Scientific Assessment Processes in Consensus Negotiations"
+  citation: "N. Eckley. 2002. Global Environmental Change 12(1), 15–23."
+  year: 2002
+  url: https://doi.org/10.1016/S0959-3780(01)00027-9
+
+- title: "Traveling Toxics: The Science, Policy, and Management of Persistent Organic Pollutants"
+  citation: "N. Eckley. 2001. Environment: Science and Policy for Sustainable Development 43(7), 24–36."
+  year: 2001
+  url: https://doi.org/10.1080/00139150109604496
+
+- title: "Screening for Persistent Organic Pollutants: Techniques to Provide a Scientific Basis for POPs Criteria in International Negotiations"
+  citation: "B. D. Rodan, D. W. Pennington, N. Eckley, and R. S. Boethling. 1999. Environmental Science & Technology 33(20), 3482–3488."
+  year: 1999
+  url: https://doi.org/10.1021/es980060t
+

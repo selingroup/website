@@ -1,0 +1,16 @@
+{
+  "name": "selingroup-website",
+  "version": "1.0.0",
+  "description": "Selin Group website (Eleventy)",
+  "scripts": {
+    "fetch-images": "node scripts/fetch-images.mjs",
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.8",
+    "js-yaml": "^5.5.0"
+  },
+  "private": true,
+  "type": "module"
+}

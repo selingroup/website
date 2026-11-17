@@ -1,0 +1,5 @@
+export default {
+  layout: "layouts/person.njk",
+  tags: ["people"],
+  permalink: "/people/{{ page.fileSlug }}/",
+};

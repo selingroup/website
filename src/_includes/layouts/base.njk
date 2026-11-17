@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title and page.url != "/" %}{{ title }} · {% endif %}{{ site.title }} — {{ site.tagline }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta property="og:title" content="{{ title or site.title }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:image" content="{{ site.url }}{{ image or photo or site.hero.image }}">
+  <link rel="icon" href="/assets/images/site/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="/">{% include "logo.njk" %}<span><strong>{{ site.title }}</strong><small>{{ site.tagline }}</small></span></a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle menu">
+      <label for="nav-toggle" class="nav-button" aria-hidden="true"><span></span></label>
+      <nav class="site-nav" aria-label="Main">
+        {% for item in site.nav %}
+        <a href="{{ item.url }}"{% if page.url.startsWith(item.url) %} aria-current="page"{% endif %}>{{ item.label }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    {{ content | safe }}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div>
+        <a class="brand brand-footer" href="/">{% include "logo.njk" %}<span><strong>{{ site.title }}</strong><small>{{ site.tagline }}</small></span></a>
+        <p class="muted">{{ site.address }}</p>
+      </div>
+      <ul class="footer-links">
+        {% for a in site.affiliations %}<li><a href="{{ a.url }}">{{ a.label }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    <div class="wrap muted small">© {{ "" | year }} {{ site.title }}, MIT</div>
+  </footer>
+</body>
+</html>
