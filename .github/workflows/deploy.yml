@@ -22,7 +22,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run fetch-images   # no-op once images are committed
-      - run: npm run build
+      - id: pages
+        uses: actions/configure-pages@v5
+      - run: npm run build -- --pathprefix="${{ steps.pages.outputs.base_path }}/"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
