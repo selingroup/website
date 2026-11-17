@@ -130,6 +130,18 @@ export default function (eleventyConfig) {
     }).join("");
   });
 
+
+  // Open external links (other websites) in a new tab. Links within the site, mailto: links and
+  // links that already set a target are left alone.
+  eleventyConfig.addTransform("externalLinks", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content.replace(/<a\s([^>]*?)href="(https?:\/\/[^"]+)"([^>]*)>/gi, (tag, pre, href, post) => {
+      if (/\btarget=/.test(pre + post)) return tag;
+      if (/^https?:\/\/(www\.)?selingroup\.(org|github\.io)(\/|$)/i.test(href)) return tag;
+      return `<a ${pre}href="${href}"${post} target="_blank" rel="noopener">`;
+    });
+  });
+
   eleventyConfig.addFilter("year", () => new Date().getFullYear());
 
   return {
