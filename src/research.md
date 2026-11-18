@@ -5,9 +5,9 @@ permalink: /research/
 lede: Understanding how pollution and climate change affect human well-being, and informing decisions for sustainable development.
 ---
 
-Our research examines how human activities, the pollution they generate, and the decisions societies make interact to shape human well-being and Earth's life-support systems, now and for future generations. Human activities and development meet needs for energy, food, mobility, industry and technology, but they also release air pollutants and greenhouse gases. These affect health, ecosystems and climate, often unequally. Those impacts in turn inform decisions and policies, which reshape human activities. Our ultimate goal is to inform policies and decisions towards greater sustainability.
+Our research examines how human activities, the pollution they generate, and the decisions societies make interact to shape human well-being and Earth's life-support systems, now and for future generations. Human activities and development meet needs for energy, food, and mobility through industry and technology, but they also release air pollutants and greenhouse gases. These affect climate, health, and ecosystems, often unequally. Those impacts in turn inform decisions and policies, which reshape human activities. Our ultimate goal is to inform policies and decisions towards greater sustainability.
 
-We organize our work around three connected areas: **Pollution and Impacts**, **Systems Modeling** and **Decisions and Policies**. Systems modeling sits at the center of the cycle shown below and links every stage. Many of our projects span two or all three areas.
+We organize our work around three connected areas: **Pollution and Impacts**, **Systems Modeling** and **Decisions and Policies**. Systems modeling links these together, integrated together with data analysis. Many of our projects span two or all three areas.
 
 <figure>
   <img src="/assets/images/site/research-diagram.svg" alt="Conceptual diagram of the Selin Group's research. A cycle runs from human activities and development (meeting needs through energy, food, mobility, industry and technology), to pollution and climate change (mercury, PAHs, ozone and PM2.5 transport and chemistry; CO2 and climate response), to well-being and life-support systems (health, ecosystems, climate risks, and equity within and across generations), to decisions and policies (treaties, regulation, organizational action, policy evaluation), and back to human activities. At the center, a globe labeled Systems Modeling connects every stage, using tools that range from detailed atmospheric models to fast emulators and systems frameworks. The Pollution and Impacts area covers the half of the cycle from activities to impacts; the Decisions and Policies area covers the half from impacts back to activities.">
@@ -16,7 +16,7 @@ We organize our work around three connected areas: **Pollution and Impacts**, **
 
 <h2 id="pollution-and-impacts">Pollution and Impacts</h2>
 
-We study how air pollutants such as mercury, polycyclic aromatic hydrocarbons (PAHs), ozone and fine particulate matter (PM2.5) are emitted, transported and transformed, and how pollution and climate change affect human health, ecosystems and well-being. Mercury and other persistent, toxic pollutants travel globally through the atmosphere and accumulate in food webs, affecting people far from emission sources. We use atmospheric chemistry models and observations to identify where pollution comes from, including legacy and land-use sources, and how it responds to changing emissions and a changing climate. We then link model output with exposure and health analysis to trace impacts from sources to the people and places affected, with attention to equity within and across generations.
+We study how air pollutants such as mercury, polycyclic aromatic hydrocarbons (PAHs), ozone and fine particulate matter (PM2.5) are emitted, transported and transformed, and how pollution and climate change affect human health, ecosystems and well-being. Mercury and other persistent, toxic pollutants travel globally through the atmosphere and accumulate in food webs, affecting people far from emission sources. We use atmospheric chemistry models and observations to identify where pollution comes from, including past, present, natural, and anthropogenic sources, and how it responds to changing emissions and a changing climate. We then link model output with exposure and health analysis to trace impacts from sources to the people and places affected, with attention to equity within and across generations.
 
 **Selected publications**
 
@@ -28,7 +28,7 @@ We study how air pollutants such as mercury, polycyclic aromatic hydrocarbons (P
 
 <h2 id="systems-modeling">Systems Modeling</h2>
 
-We build and use a range of modeling tools, matched to the question being asked. These range from detailed atmospheric chemistry models of air pollutants, to fast, AI-based emulators that reproduce the behavior of complex climate and chemistry models in seconds, to frameworks that connect interacting natural and societal systems. Fast tools let us explore many possible futures and quantify uncertainty. Systems frameworks help us see how human, technical and environmental components interact. Together they give decision-makers actionable information about the trade-offs between paths toward sustainable development.
+We build and use a range of modeling tools to address questions driven by decision-maker needs. These modelign tools range from detailed atmospheric chemistry models of air pollutants, to fast, AI-based emulators that reproduce the behavior of complex climate and chemistry models in seconds, to frameworks that connect interacting natural and societal systems. Fast tools let us explore many possible futures and quantify uncertainty. Systems frameworks help us see how human, technical and environmental components interact. Our suite of tools can help give decision-makers actionable information about the trade-offs and synergies among paths toward sustainable development.
 
 **Selected publications**
 
@@ -41,7 +41,7 @@ We build and use a range of modeling tools, matched to the question being asked.
 
 <h2 id="decisions-and-policies">Decisions and Policies</h2>
 
-We analyze how environmental decisions are made and what they achieve. Our work ranges from international treaties like the Minamata Convention on Mercury, to national energy, climate and air quality regulation, to the climate commitments of organizations. We evaluate policies both before and after they take effect, assessing their effects on health, climate and equity. We also study how scientific knowledge can better inform governance. The goal is to support actions that improve well-being for current and future generations.
+We analyze how environmental decisions are made and what they achieve. Our work addresses policies and decisions at multiple scales: international treaties like the Minamata Convention on Mercury; national energy, climate and air quality regulation; and climate commitments of organizations. We evaluate the impacts of current and proposed policies, assessing their effects on health, climate and equity. We also study how scientific knowledge can better inform governance. Our goal is to provide information to support better sustainability decisions.
 
 **Selected publications**
 
