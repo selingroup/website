@@ -41,7 +41,7 @@ We build and use a range of modeling tools to address questions driven by decisi
 
 <h2 id="decisions-and-policies">Decisions and Policies</h2>
 
-We analyze how environmental decisions are made and what they achieve. Our work addresses policies and decisions at multiple scales: international treaties like the Minamata Convention on Mercury; national energy, climate and air quality regulation; and climate commitments of organizations. We evaluate the impacts of current and proposed policies, assessing their effects on health, climate and equity. We also study how scientific knowledge can better inform governance. Our goal is to provide information to support better sustainability decisions.
+We analyze how environmental decisions are made and what they achieve. Our work addresses policies and decisions at multiple scales: global treaties like the Minamata Convention on Mercury; national energy, climate and air quality regulation; and climate commitments of organizations. We evaluate the impacts of current and proposed policies, assessing their effects on health, climate and equity. We also study how scientific knowledge can better inform governance. Our goal is to provide information to support better sustainability decisions.
 
 **Selected publications**
 

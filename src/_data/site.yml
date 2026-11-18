@@ -40,21 +40,18 @@ themes:
     image: /assets/images/site/systems-modeling.jpg
     credit: "Image: PNAS"
     text: >-
-      We build and use a range of modeling tools, from detailed atmospheric
+      We build and use a range of modeling tools, ranging from detailed atmospheric
       chemistry models to fast, AI-based emulators and frameworks that connect
-      interacting natural and societal systems. Matching the tool to the
-      question lets us explore many possible futures and give decision-makers
-      actionable information about the trade-offs between paths toward
+      interacting natural and societal systems. We develop and mobilize these tools in order to provide information about synergies and trade-offs along paths toward
       sustainable development.
   - title: Decisions and Policies
     anchor: decisions-and-policies
     image: /assets/images/site/decisions-and-policy.jpg
     credit: "Photo: N. Selin"
     text: >-
-      We analyze how environmental decisions are made and what they achieve,
-      from international treaties like the Minamata Convention to national
-      regulation and organizations' climate commitments. We evaluate policies
-      before and after they take effect, assessing their effects on health,
+      We analyze how environmental decisions are made and their impacts at multiple levels,
+      from global treaties like the Minamata Convention to national
+      regulation and organizations' climate commitments. We evaluate the impacts of current and prospective policies, assessing their effects on health,
       climate and equity, to support actions that improve well-being for
       current and future generations.
 
