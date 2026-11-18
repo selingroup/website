@@ -18,32 +18,45 @@ nav:
 hero:
   heading: Pollution, Impacts and Policy
   text: >-
-    Our group research focuses on using atmospheric chemistry and integrated
-    modeling to inform sustainability decision-making.
+    We use systems modeling to understand how pollution and climate change
+    affect human well-being, and to inform decisions for sustainable
+    development.
   image: /assets/images/site/hero.jpg
 
 themes:
-  - title: Mercury and POPs
-    image: /assets/images/site/mercury-pops.jpg
-    text: >-
-      Mercury (Hg) and persistent organic pollutants (POPs) are long-lived
-      environmental pollutants that travel globally through the atmosphere, and
-      pose risks to humans and the environment far from emission sources. Our
-      work tries to better understand the fate and transport of these contaminants.
-  - title: Air Pollution Impacts
+  # credit: optional small line shown just under the image
+  - title: Pollution and Impacts
+    anchor: pollution-and-impacts
     image: /assets/images/site/air-pollution-impacts.jpg
+    credit: "Photo: N. Selin"
     text: >-
-      Toxic air pollutants, including Hg, POPs, ozone, and fine particulate
-      matter, can be dangerous to human health. We develop tools to help
-      decision-makers understand and project air pollution impacts, in the
-      context of uncertainty and global change, including climate changes.
-  - title: Decisions and Policy
+      We study how air pollutants such as mercury, PAHs, ozone and fine
+      particulate matter (PM2.5) are emitted, transported and transformed, and
+      how pollution and climate change affect human health, ecosystems and
+      well-being. We trace these impacts from their sources to the people and
+      places affected, with attention to equity within and across generations.
+  - title: Systems Modeling
+    anchor: systems-modeling
+    image: /assets/images/site/systems-modeling.jpg
+    credit: "Image: PNAS"
+    text: >-
+      We build and use a range of modeling tools, from detailed atmospheric
+      chemistry models to fast, AI-based emulators and frameworks that connect
+      interacting natural and societal systems. Matching the tool to the
+      question lets us explore many possible futures and give decision-makers
+      actionable information about the trade-offs between paths toward
+      sustainable development.
+  - title: Decisions and Policies
+    anchor: decisions-and-policies
     image: /assets/images/site/decisions-and-policy.jpg
+    credit: "Photo: N. Selin"
     text: >-
-      Our analyses are designed to inform policies and decisions, with the goal
-      of enhancing sustainability for future generations. We are interested in
-      understanding and enhancing the role of science in sustainability
-      decision-making.
+      We analyze how environmental decisions are made and what they achieve,
+      from international treaties like the Minamata Convention to national
+      regulation and organizations' climate commitments. We evaluate policies
+      before and after they take effect, assessing their effects on health,
+      climate and equity, to support actions that improve well-being for
+      current and future generations.
 
 # Footer / contact
 affiliations:

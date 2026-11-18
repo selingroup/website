@@ -14,8 +14,9 @@ title: Home
 <section class="wrap section">
   <div class="cards three">
     {% for t in site.themes %}
-    <a class="card theme" href="/research/">
+    <a class="card theme" href="/research/#{{ t.anchor }}">
       <img src="{{ t.image }}" alt="" loading="lazy">
+      {% if t.credit %}<span class="theme-credit">{{ t.credit }}</span>{% endif %}
       <div class="card-body"><h2>{{ t.title }}</h2><p>{{ t.text }}</p></div>
     </a>
     {% endfor %}
