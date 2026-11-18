@@ -89,6 +89,7 @@ h3 { font-size: 1.1rem; }
 .prose { max-width: 46rem; }
 .prose h2 { margin-top: 1.8em; }
 .prose figure { margin: 2em 0; }
+.prose h2[id] { scroll-margin-top: 90px; }
 .prose figcaption { font-size: .88rem; color: var(--muted); margin-top: .5em; }
 .prose figure img { border: 1px solid var(--line); border-radius: var(--radius); }
 
