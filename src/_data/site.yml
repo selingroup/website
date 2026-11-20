@@ -1,10 +1,11 @@
 # Site-wide settings. Edit text here; it updates every page.
 title: Selin Group
-tagline: Pollution, Impacts and Policy at MIT
+tagline: Pollution, Modeling, and Sustainability Science at MIT
 url: https://www.selingroup.org
 description: >-
-  The Selin Group at MIT uses atmospheric chemistry and integrated modeling
-  to inform sustainability decision-making.
+  The Selin Group at MIT works at the intersection of pollution, modeling, and
+  sustainability science, using atmospheric chemistry and systems modeling to
+  inform sustainability decisions.
 
 # Top navigation (order matters)
 nav:
@@ -16,11 +17,12 @@ nav:
 
 # Home page
 hero:
-  heading: Pollution, Impacts and Policy
+  heading: Pollution, Modeling, and Sustainability Science
   text: >-
-    We use systems modeling to understand how pollution and climate change
-    affect human well-being, and to inform decisions for sustainable
-    development.
+    We bring together atmospheric science, systems modeling, and policy
+    analysis to understand how pollution and climate change affect human
+    well-being and Earth's life-support systems, and to inform decisions
+    toward a more sustainable future.
   image: /assets/images/site/hero.jpg
 
 themes:

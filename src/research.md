@@ -2,10 +2,10 @@
 layout: layouts/page.njk
 title: Research
 permalink: /research/
-lede: Understanding how pollution and climate change affect human well-being, and informing decisions for sustainable development.
+lede: "Pollution, modeling, and sustainability science: understanding how human activities affect well-being, and informing decisions toward sustainability."
 ---
 
-Our research examines how human activities, the pollution they generate, and the decisions societies make interact to shape human well-being, livelihoods, and Earth's life-support systems, now and for future generations. Human activities and development meet needs for energy, food, and mobility through industry and technology, but they also release air pollutants and greenhouse gases. These affect climate, health, and ecosystems, often unequally. Those impacts in turn inform decisions and policies, which reshape human activities. Our ultimate goal is to inform policies and decisions towards greater sustainability.
+Our group works in sustainability science, a field that studies the interactions between human and natural systems in order to support sustainable development. Our research examines how human activities, the pollution they generate, and the decisions societies make interact to shape human well-being, livelihoods, and Earth's life-support systems, now and for future generations. Human activities and development meet needs for energy, food, and mobility through industry and technology, but they also release air pollutants and greenhouse gases. These affect climate, health, and ecosystems, often unequally. Those impacts in turn inform decisions and policies, which reshape human activities. Our ultimate goal is to inform policies and decisions towards greater sustainability.
 
 We organize our work around three connected areas: **[Pollution and Impacts](#pollution-and-impacts)**, **[Systems Modeling](#systems-modeling)** and **[Decisions and Policies](#decisions-and-policies)**. Many of our projects span two or all three areas.
 

@@ -5,6 +5,8 @@ permalink: /join/
 lede: Information for prospective students and visitors.
 ---
 
+We welcome students and postdocs from a range of backgrounds (atmospheric science, engineering, data science, economics, and policy) who are interested in pollution, modeling, and sustainability science.
+
 ## For prospective students
 
 Students who work in our group are in two different departments at MIT:
