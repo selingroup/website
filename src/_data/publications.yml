@@ -2,6 +2,12 @@
 # Fields: title, citation (authors. year. journal, volume, pages), year, url (main link),
 # optional: more_links (list of {label, url}), news (press coverage URL), featured: true (show on home page).
 
+- title: "Spatially Distributed Air Quality and Health Impacts of Data Center Electricity Demand in the United States"
+  citation: "Y. Chen, S. Wang, J. R. L. Senga, A. S. White, A. Y. H. Wong, L. M. Freese, M. L. Bell, and N. E. Selin. 2026. Environmental Research Letters 21(21), 214046."
+  year: 2026
+  url: https://doi.org/10.1088/1748-9326/aebbd4
+  news: https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119
+
 - title: "Optimal Scenario Design for Climate Emulation"
   citation: "C. B. Womack, S. Bouabid, A. Sokolov, P. Salunke, G. Flierl, S. D. Eastham, and N. E. Selin. 2026. Proceedings of the National Academy of Sciences (PNAS) 123(46), e2620731123."
   year: 2026
