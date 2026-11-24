@@ -16,6 +16,9 @@ Students who work in our group are in two different departments at MIT:
 
 Application deadlines are in December for admission the following September.
 
+## Other collaborators
+We do not host unpaid interns or volunteer researchers. Prospective UROPs who are current MIT undergraduates are encouraged to reach out to us directly. 
+
 ## Finding us
 
 Our offices are in several locations on campus, including Buildings E17-E18, E19, and 54. The MIT campus is easily accessible from the Red Line Kendall Square subway stop. For directions on campus, see [whereis.mit.edu](https://whereis.mit.edu).
